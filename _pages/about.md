@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: bassist_kwan.jpg
+  image: bassist_kwan.JPG
   image_circular: false # crops the image to make it circular
   more_info:
   #  >
