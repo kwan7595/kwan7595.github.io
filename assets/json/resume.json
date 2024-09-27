@@ -3,23 +3,16 @@
     "name": "Kwanhee Lee (Kwan)",
     "image": "../img/prof_pig.jpg",
     "email": "kwanhee.lee@postech.ac.kr",
-    "url": "https://kwan7595.github.io",
-    "summary": "Do what I want with great passion and dignity.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    }
+    "homepage": "https://kwanhee-lee.github.io",
+    "github" : "https://github.com/kwanhee-lee"
   },
   "education": [
     {
       "institution": "Pohang University of Science and Technology (POSTECH)",
       "location": "Pohang, South Korea",
-      "url": "https://www.postech.ac.kr/",
+      "url": "https://postech.ac.kr",
       "area": "Artificial Intelligence",
-      "studyType": "MS",
+      "studyType": "M.S.",
       "startDate": "2024-09-01",
       "endDate": "",
       "score": ""
@@ -29,28 +22,57 @@
       "location": "Seoul, South Korea",
       "url": "https://www.konkuk.ac.kr/",
       "area": "Computer Science & Engineering",
-      "studyType": "BS",
+      "studyType": "B.E.",
       "startDate": "2019-03-01",
       "endDate": "2024-08-28",
       "score": "4.04/4.5"
+    }
+  ],
+  "awards":[
+    {
+      "title": "Academic Excellence Scholarship",
+      "date": "2022S,2023F",
+      "awarder": "Konkuk University"
+    },
+    {
+      "title": "KU : Student Growth Scholarship",
+      "date": "2023-12-27",
+      "awarder": "Konkuk University"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2024-01-26",
+      "awarder": "Konkuk University"
+    },
+    {
+      "title": "KU : Super Rookie Scholarship",
+      "date": "2024-02-28",
+      "awarder": "Konkuk University",
+      "url" : "https://mae.konkuk.ac.kr/kure/17602/subview.do;jsessionid=540293759AA1FC270074A650DCB4EC96?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3VyZSUyRjE1ODclMkYxMTE1MzMyJTJGYXJ0Y2xWaWV3LmRvJTNG"
     }
   ],
   "skills": [
     {
       "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-hashtag",
+      "keywords":[
+        "PyTorch",
+        "TensorFlow",
+        "Python",
+        "C/C++"
+      ]
     }
   ],
   "languages": [
     {
       "language": "Korean",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent(TOEIC : 955, TEPS : 465)",
       "icon": ""
     }
   ],
@@ -59,8 +81,7 @@
       "name": "Efficient Deep Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Network Pruning",
-        "Network Quantization"
+        "Network Pruning"
       ]
     },
     {
